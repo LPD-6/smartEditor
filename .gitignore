@@ -1,0 +1,34 @@
+# Node.js & npm
+node_modules/
+package-lock.json
+
+# Electron
+/.electron-gyp
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs & Editors
+# (Add the specific files/folders for your preferred IDE/editor if needed)
+.vscode/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Logs & Debug Files
+*.log
+*.dbg
+*.tmp
+
+# Build Artifacts
+/dist
+/build
+/out
+
+# Miscellaneous
+*.env
+*.env.*
+.env.example
+coverage/

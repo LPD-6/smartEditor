@@ -1,0 +1,17 @@
+{
+  "name": "smarteditor",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "Liam Davidson",
+  "license": "MIT",
+  "description": "AI-enhanced code editor",
+  "dependencies": {
+    "electron": "^33.0.2",
+    "electron-builder": "^25.1.8",
+    "monaco-editor": "^0.52.0"
+  }
+}
